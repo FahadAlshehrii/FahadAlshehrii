@@ -7,10 +7,7 @@
   <br>
   I am passionate about <b>cloud technologies</b> and <b>artificial intelligence</b>.
   <br><br>
-  Driven to contribute to <b>Saudi Arabia’s Vision 2030</b>, I am eager to apply my skills to help build innovative solutions that create real impact.
-</p>
 
-<br>
 
 
 ---
@@ -35,18 +32,4 @@
 * ☁️ Building and deploying cloud solutions on Microsoft Azure.
 * 🤝 Collaborating with teams on IT and cloud-focused projects.
 * 🔧 Working towards deeper Azure integration in my projects.
-
----
-
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fahad-alshehri-b88954245">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="mailto:[Fahad_elshehrii@gmail.com]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
