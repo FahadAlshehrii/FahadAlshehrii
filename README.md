@@ -1,16 +1,55 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=0078D4&center=true&width=435&lines=Hi%2C+I'm+Fahad+Alshehri+👋;4th-year+IT+Student;Cloud+Technology+Enthusiast;AI+Enthusiast" alt="Typing SVG" />
+</p>
 
-<!--
-**FahadAlshehrii/FahadAlshehrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[FahadAlshehrii]&show_icons=true&theme=tokyonight&icon_color=0078D4&hide_border=true" alt="Fahad's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[FahadAlshehrii]&layout=compact&theme=tokyonight&hide_border=true" alt="Fahad's Top Languages" />
+</p>
+
+---
+
+### 🛠️ Skills & Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/NoSQL-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="NoSQL">
+</p>
+
+---
+
+### 🚀 Current Focus
+
+* 🤖 Exploring and learning about Machine Learning & AI.
+* ☁️ Building and deploying cloud solutions on Microsoft Azure.
+* 🤝 Collaborating with teams on IT and cloud-focused projects.
+* 🔧 Working towards deeper Azure integration in my projects.
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="[www.linkedin.com/in/fahad-alshehri-b88954245]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:[Fahad_elshehrii]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+```eof
