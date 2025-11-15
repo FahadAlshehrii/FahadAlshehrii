@@ -14,7 +14,6 @@
 
 ---
 
-### 📊 My GitHub Stats
 
 
 ---
