@@ -16,11 +16,6 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahadAlshehrii&show_icons=true&theme=tokyonight&icon_color=0078D4&hide_border=true" alt="Fahad's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadAlshehrii&layout=compact&theme=tokyonight&hide_border=true" alt="Fahad's Top Languages" />
-</p>
 
 ---
 
@@ -58,5 +53,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-```eof
 
