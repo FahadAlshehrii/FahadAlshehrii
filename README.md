@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.anurag.dev?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=0078D4&center=true&width=435&lines=Hi%2C+I'm+Fahad+Alshehri+👋;4th-year+IT+Student;Cloud+Technology+Enthusiast;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://placehold.co/435x50/0078D4/FFFFFF?text=Hi,+I'm+Fahad+Alshehri+👋&font=firacode" alt="Hi, I'm Fahad Alshehri" />
 </p>
 <p align="center">
   An ambitious  IT guy 
