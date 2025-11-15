@@ -2,7 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=0078D4&center=true&width=435&lines=Hi%2C+I'm+Fahad+Alshehri+👋;4th-year+IT+Student;Cloud+Technology+Enthusiast;AI+Enthusiast" alt="Typing SVG" />
 </p>
 
-
+<p align="center">
+  An ambitious  IT guy 
+  <br>
+  I am passionate about <b>cloud technologies</b> and <b>artificial intelligence</b>.
+  <br><br>
+  Driven to contribute to <b>Saudi Arabia’s Vision 2030</b>, I am eager to apply my skills to help build innovative solutions that create real impact.
+</p>
 
 <br>
 
@@ -11,9 +17,9 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[FahadAlshehrii]&show_icons=true&theme=tokyonight&icon_color=0078D4&hide_border=true" alt="Fahad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahadAlshehrii&show_icons=true&theme=tokyonight&icon_color=0078D4&hide_border=true" alt="Fahad's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[FahadAlshehrii]&layout=compact&theme=tokyonight&hide_border=true" alt="Fahad's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadAlshehrii&layout=compact&theme=tokyonight&hide_border=true" alt="Fahad's Top Languages" />
 </p>
 
 ---
@@ -44,12 +50,13 @@
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="[www.linkedin.com/in/fahad-alshehri-b88954245]">
+  <a href="https://www.linkedin.com/in/fahad-alshehri-b88954245">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="mailto:[Fahad_elshehrii]">
+  <a href="mailto:[Fahad_elshehrii@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 ```eof
+
