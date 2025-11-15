@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://placehold.co/435x50/0078D4/FFFFFF?text=Hi,+I'm+Fahad+Alshehri+👋&font=firacode" alt="Hi, I'm Fahad Alshehri" />
-</p>
+
 <p align="center">
   An ambitious  IT guy 
   <br>
