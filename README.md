@@ -1,8 +1,8 @@
 
 <p align="center">
-  An ambitious  IT guy 
+    IT guy 
   <br>
-  I am passionate about <b>cloud technologies</b> and <b>artificial intelligence</b>.
+ passionate about <b>cloud technologies</b> and <b>artificial intelligence</b>.
   <br><br>
 
 
