@@ -15,12 +15,12 @@
 
 ---
 
-### 🚀 Featured Project
+###  Featured Project
 **[Azure Multi-Model Cloud Deployment Study](https://github.com/FahadAlshehrii/azure-cloud-deployment-study)**
 A comparative analysis of IaaS, PaaS, and Serverless models, achieving **94% cost optimization** for static hosting.
 
 ---
 
-### 📈 Current Focus
+###  Current Focus
 * 🤖 Deepening expertise in Machine Learning & AI through KAUST program.
 * 🔧 Mastering **Infrastructure as Code (IaC)** with Terraform.
