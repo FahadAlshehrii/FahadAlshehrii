@@ -1,9 +1,6 @@
 # ☁️ Fahad Alshehri | DevOps Engineer in the making
 
-<p align="left">
-  <img src="https://img.shields.io/badge/GPA-4.85%2F5.0-brightgreen?style=flat-square" alt="GPA">
-  <img src="https://img.shields.io/badge/Status-KAUST_AI_Stage_2-orange?style=flat-square" alt="KAUST AI">
-</p>
+
 
 > IT guy passionate about **cloud technologies** and **artificial intelligence**, focused on bridging the gap between architectural design and operational excellence.
 
