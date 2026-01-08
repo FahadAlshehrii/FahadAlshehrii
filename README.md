@@ -1,32 +1,29 @@
+# ☁️ Fahad Alshehri | DevOps Engineer in the making
 
-<p align="center">
-    IT guy 
-  <br>
- passionate about <b>cloud technologies</b> and <b>artificial intelligence</b>.
-  <br><br>
+<p align="left">
+  <img src="https://img.shields.io/badge/GPA-4.85%2F5.0-brightgreen?style=flat-square" alt="GPA">
+  <img src="https://img.shields.io/badge/Status-KAUST_AI_Stage_2-orange?style=flat-square" alt="KAUST AI">
+</p>
 
-
+> IT guy passionate about **cloud technologies** and **artificial intelligence**, focused on bridging the gap between architectural design and operational excellence.
 
 ---
 
 ### 🛠️ Skills & Expertise
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/NoSQL-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="NoSQL">
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Cloud Platforms** | ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![OCI](https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 
 ---
 
-### 🚀 Current Focus
+### 🚀 Featured Project
+**[Azure Multi-Model Cloud Deployment Study](https://github.com/FahadAlshehrii/azure-cloud-deployment-study)**
+A comparative analysis of IaaS, PaaS, and Serverless models, achieving **94% cost optimization** for static hosting.
 
-* 🤖 Exploring and learning about Machine Learning & AI.
-* ☁️ Building and deploying cloud solutions on Microsoft Azure.
-* 🤝 Collaborating with teams on IT and cloud-focused projects.
-* 🔧 Working towards deeper Azure integration in my projects.
+---
 
+### 📈 Current Focus
+* 🤖 Deepening expertise in Machine Learning & AI through KAUST program.
+* 🔧 Mastering **Infrastructure as Code (IaC)** with Terraform.
