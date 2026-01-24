@@ -1,4 +1,4 @@
-# ☁️ Fahad Alshehri | DevOps Engineer in the making
+# ☁️ Fahad Alshehri 
 
 
 
