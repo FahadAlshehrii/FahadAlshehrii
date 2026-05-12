@@ -2,7 +2,7 @@
 
 
 
-> IT guy passionate about **cloud technologies** and **artificial intelligence**, focused on bridging the gap between architectural design and operational excellence.
+> Cloud AI Engineer passionate about **cloud technologies** and **artificial intelligence**, focused on bridging the gap between architectural design and operational excellence. I build end‑to‑end systems that **ship** – from ML models to live Projects, deployed on cloud with modern DevOps.
 
 ---
 ### 💻 Tech Skills
